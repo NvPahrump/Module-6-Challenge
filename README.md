@@ -1,4 +1,4 @@
-# FINTECH_RandyMiyazaki
+# Module-6-Challenge
 #
 $ FinTech Bootcamp Module 6 Challange due April 30, 2023
 
